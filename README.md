@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+## EDUCATION BACKGOURND 
 
-You can use the [editor on GitHub](https://github.com/kawehburg/kawehburg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### EDUCATION BACKGOURND 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Shandong University, Computer Science and Technology
 
-### Markdown
+- **Major**:   Data Science and Big Data Technology, GPA: 3.6/4.0
+- **Main Courses**:  Higher Mathematics, Machine Learning, Algorithm design, Computer Vision
+- **Awards**:
+  - National Second Prize, CUMCM
+  - First prize, College Software Innovation Contest
+  - Second prize, Hackathon of SDU
+  - College Academic Scholarship
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### RESEARCH EXPERIENCE
 
-```markdown
-Syntax highlighted code block
+#### Domain Adaptation for Conversational Knowledge Selection
 
-# Header 1
-## Header 2
-### Header 3
+**Position: Research Assistant, IR Lab at Shandong University**
 
-- Bulleted
-- List
+- We observe similarities between KS process in KGC and Response Selection. An effective transfer learning mechanism will enhance the Dialogue Generation with Retrieval-based Dialog System. 
+-  Propose a Dual Domain Interaction algorithm to mitigate the negative influence of domain shift and task discrepancy, learn transferable feature representations in multiple domains.
 
-1. Numbered
-2. List
+#### Knowledge Aware Conversation Generation 
 
-**Bold** and _Italic_ and `Code` text
+**Position: Research Assistant, IR Lab at Shandong University**
 
-[Link](url) and ![Image](src)
-```
+- Previous studies on Knowledge-Grounded Conversation have two limitations: (1) they do not model knowledge tracking and shifting and their interaction explicitly, (2) MLE only relies on demonstrated conversations to train the model, which cannot handle the many-to-many mapping phenomenon in conversations well. 
+- Propose a Dual Knowledge Interaction Network (DukeNet) to address the first issue, and Dual Knowledge Interaction Learning (DukeL) to address the second issue. 
+-  Experimental results on two public KGC benchmarks show that DukeNet significantly outperforms state-of-the-art methods in terms of both automatic and human evaluations.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Multi-modal AI Music Generation 
 
-### Jekyll Themes
+**Position: Algorithm Design, DeeCamp, Sinovation Ventures**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kawehburg/kawehburg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Use ResNet-places365 to analysis sentiment tags of short video and generate tag based multitrack real-time by Music Transformer combined with Performance-RNN. 
+- Propose a MIDI correction algorithms and a chord matching algorithm based on music theory. Build a music composing process. 
+- Develop apps with excellent user experience. Deploy deep learning models on the server and achieve high concurrent performance.
 
-### Support or Contact
+### ACTIVITIES
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Short-Term Visiting Program, Oxford University**
+
+  Certificate of Attendance, Best mv reward
+
+- **DeeCamp, Kuai Shou, Sinovation Ventures** 
+
+  Multi-modal AI Music Generation, Excellent presentation 
+
+- **CCF Certified Software Professional, China Computer Federation**
+
+  Grade 400, National Ranking 2/ 11395
+
+- **Software Innovation Contest, Hackathon, Shandong University**
+
+  AIoT- Express Solution, QRMaster
+
+### ACADEMIC LITERATURE
+
+- **DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation** 
+- SIGIR 2020
+
+### INTERNSHIP EXPERIENCE
+
+#### CDP Development 
+
+**Position: Algorithm Engineer Inspur Co., Ltd.**
+
+- Research on the license classification algorithm and deployment of efficient license classification module. Maintain and optimize CDP machine learning modules. Research on Policy Semantic Analysis Algorithm.
+
+### OTHER INFORMATION
+
+- **INTREST**:  Natural language processing, Machine learning 
+- **SKILLS**:  python(CSP400), pytorch, tensorflow, Pycharm, MATLAB 
+- **HOBBIES**:  Badminton(College Team), Piano(level 10, CMA)
+
+
+
+
+
