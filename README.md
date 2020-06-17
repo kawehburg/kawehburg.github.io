@@ -1,4 +1,4 @@
-## EDUCATION BACKGOURND 
+## Sun, Weiwei
 
 ### EDUCATION BACKGOURND 
 
